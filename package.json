@@ -1,0 +1,27 @@
+{
+  "name": "hello-world-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemyplatform/hello-world-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchemyplatform/hello-world-tutorial/issues"
+  },
+  "homepage": "https://github.com/alchemyplatform/hello-world-tutorial#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.6"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
