@@ -18,6 +18,7 @@
   "homepage": "https://github.com/alchemyplatform/hello-world-tutorial#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.6",
     "ethers": "^5.4.7",
     "hardhat": "^2.6.6"
   },
